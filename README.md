@@ -33,8 +33,8 @@ Python packages are listed in [`requirements.txt`](requirements.txt):
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/hackersclub29/OLLAMA_CLOUD_MODEL_TESTER.git
+cd OLLAMA_CLOUD_MODEL_TESTER
 ```
 
 Create and activate a virtual environment (recommended).
